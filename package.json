@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "chokidar": "^2.0.4",
+    "chokidar": "^4.0.1",
     "commander": "^2.19.0",
     "discord.js": "^11.4.2",
     "iconv-lite": "^0.4.24",
